@@ -1,0 +1,24 @@
+body {
+    font-family: "Copperplate Gothic Bold"; font-size: 160%;
+    background: palevioletred;
+}
+
+h1, h4, h2, p {
+    text-weight: bold;
+    color: white;
+}
+
+#container {
+    margin:auto;
+    width: 35%;
+    text-align: center;
+}
+
+#Name {
+    text-align: center;
+}
+
+#returnHoro {
+    text-align: left;
+    font-size: 50%
+}
